@@ -38,8 +38,8 @@ function App() {
           </div>
         </nav>
         <div className="hero-content">
-          <h1>Luxury for Less</h1>
-          <p>Premium pre-loved toilets at revolutionary prices</p>
+          <h1>Luxury for Less but still BULK shit</h1>
+          <p>Premicccccuuuuuum pre-loved toilets at revolutionary prices</p>
           <button className="cta-button">Browse Collection</button>
         </div>
       </header>
